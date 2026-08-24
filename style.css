@@ -4,14 +4,14 @@
     box-sizing: border-box;
 }
 body {
-    font-family: 'Poppins', Arial, sans-serif;
+    
     background: linear-gradient(135deg, #ff4da6, #6a5acd);
     color: #fff;
     line-height: 1.6;
     padding: 20px;
 }
 #titulo {
-    font-family: 'Times New Roman', Times, serif;
+   
     text-align: center;
     font-size: 3rem;
     font-weight: bold;
@@ -20,6 +20,7 @@ body {
     margin-bottom: 20px;
 }
 p {
+    font-family: 'Poppins', Arial, sans-serif;
     max-width: 800px;
     margin: 0 auto 30px auto;
     font-size: 1.2rem;
@@ -41,4 +42,12 @@ h2 {
     margin: 40px 0 20px 0;
     color: #00e5ff;
     text-shadow: 1px 1px 6px rgba(0,0,0,0.4);
+}
+ul {
+
+    font-family: 'Poppins', Arial, sans-serif;
+    list-style: none;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0;
 }
