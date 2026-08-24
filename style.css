@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    background: linear-gradient(135deg, #ff4da6, #6a5acd);
+    color: #fff;
+    line-height: 1.6;
+    padding: 20px;
+}
