@@ -1,8 +1,5 @@
-#titulo{
-    color: rgb(153, 96, 50);
-
-}
-img{
-    width: 200px;
-    height: 150px;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
