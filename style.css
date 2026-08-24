@@ -35,3 +35,10 @@ img {
     box-shadow: 0 6px 15px rgba(0,0,0,0.4);
     transition: transform 0.3s ease;
 }
+h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin: 40px 0 20px 0;
+    color: #00e5ff;
+    text-shadow: 1px 1px 6px rgba(0,0,0,0.4);
+}
