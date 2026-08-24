@@ -19,3 +19,12 @@ body {
     text-shadow: 2px 2px 8px rgba(0,0,0,0.5);
     margin-bottom: 20px;
 }
+p {
+    max-width: 800px;
+    margin: 0 auto 30px auto;
+    font-size: 1.2rem;
+    text-align: justify;
+    background: rgba(0,0,0,0.3);
+    padding: 15px;
+    border-radius: 10px;
+}
